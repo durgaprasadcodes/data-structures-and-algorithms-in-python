@@ -40,7 +40,7 @@ A focused **60-problem roadmap** for mastering stack, queue, and deque patterns 
 | [x] | 5 | [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/) | 🟢 Easy | Adjacent cancellation |
 | [x] | 6 | [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | Parentheses depth |
 | [x] | 7 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | 🟢 Easy | Stack simulation |
-| [ ] | 8 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | Auxiliary stack / design |
+| [x] | 8 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 Medium | Auxiliary stack / design |
 
 **Concept checklist**
 
