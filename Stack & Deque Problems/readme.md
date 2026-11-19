@@ -44,10 +44,10 @@ A focused **60-problem roadmap** for mastering stack, queue, and deque patterns 
 
 **Concept checklist**
 
-- [ ] LIFO principle and stack operations
-- [ ] Matching and validating parentheses
-- [ ] Using a stack to process strings
-- [ ] Maintaining extra state in a stack
+- [x] LIFO principle and stack operations
+- [] Matching and validating parentheses
+- [] Using a stack to process strings
+- [] Maintaining extra state in a stack
 
 **Notes / mistakes to revisit:**
 
