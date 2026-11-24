@@ -3,7 +3,6 @@ class Solution:
 
         stack = []
         for ch in tokens:
-
             if ch == "+":
                 b = stack.pop()
                 a = stack.pop()
