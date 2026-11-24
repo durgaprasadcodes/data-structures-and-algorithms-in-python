@@ -63,7 +63,7 @@ A focused **60-problem roadmap** for mastering stack, queue, and deque patterns 
 
 | Done | # | LeetCode Problem | Difficulty | Pattern / Focus |
 |:--:|--:|:--|:--:|:--|
-| [ ] | 9 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Expression evaluation |
+| [✅] | 9 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 Medium | Expression evaluation |
 | [ ] | 10 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | 🟡 Medium | Path normalization |
 | [ ] | 11 | [394. Decode String](https://leetcode.com/problems/decode-string/) | 🟡 Medium | Nested encoding |
 | [ ] | 12 | [227. Basic Calculator Ii](https://leetcode.com/problems/basic-calculator-ii/) | 🟡 Medium | Operator precedence |
